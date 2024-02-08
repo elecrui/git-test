@@ -11,6 +11,7 @@ public class Main {
         System.out.printf("Hello and welcome!4");
         System.out.printf("master test");
         System.out.printf("hot-fix test");
+        System.out.printf("push test");
 
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
